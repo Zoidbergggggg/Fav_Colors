@@ -31,7 +31,7 @@ int main()
 			<< "2. Remove favorite \n"
 			<< "3. Show favorites \n"
 			<< "4. Exit \n"
-			<< "Please, choose one of the poits: \n \n";
+			<< "Please, choose one of the points: \n \n";
 		int input = 0;
 		std::cin >> input;
 
@@ -66,7 +66,7 @@ int main()
 		{ 
 			if (color == 0)
 			{
-				std::cout << "You have no favorite colours\n";
+				std::cout << "You have no favorite colors\n";
 			}
 			else
 			{
